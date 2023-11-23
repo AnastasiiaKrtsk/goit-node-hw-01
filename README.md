@@ -1,4 +1,4 @@
-CLI app
+CLI app    
 Links to screenshots:
 1. https://monosnap.com/file/miL9yftNZlZDY77Mb3qyRolmARqVIQ
 2. https://monosnap.com/file/j3gGfKcdUoWOdrizaAw3WNQFxwOQrC

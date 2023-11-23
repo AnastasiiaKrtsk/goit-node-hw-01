@@ -53,7 +53,6 @@ async function addContact(data) {
   };
   contacts.push(newContact);
   await fs.writeFile(contactsPath, JSON.stringify(contacts, null, 2));
-  //null, 2 for json in column with whitespaces not in a row
   return newContact;
 }
 
